@@ -1,0 +1,11 @@
+{
+  "name": "desafio_teste_ludo",
+  "version": "1.0.0",
+  "description": "Ludo para dois jogadores com casos de teste em JavaScript",
+  "main": "ludo.js",
+  "scripts": {
+    "test": "node --test ludo.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
